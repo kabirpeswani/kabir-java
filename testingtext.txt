@@ -1,1 +1,1 @@
-this is to make sure git is working as required
+hi im kabir peswani from pune. I am currently persuing diploma in information technology.I have been coding since 3 years i.e from 2020.This repo. is the collection of programs i did while learning java language
